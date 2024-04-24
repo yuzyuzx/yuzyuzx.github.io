@@ -1,0 +1,67 @@
+{
+  "item": [
+    {
+      "name": "Beverage",
+      "category": [
+        {
+          "name": "Drip",
+          "product": [
+            {
+              "name": "カフェミスト",
+              "price": 100
+            },
+            {
+              "name": "コールドブリュー",
+              "price": 200
+            }
+          ]
+        },
+        {
+          "name": "Espresso",
+          "product": [
+            {
+              "name": "スターバックスラテ",
+              "price": 100
+            },
+            {
+              "name": "ソイラテ",
+              "price": 200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Food",
+      "category": [
+        {
+          "name": "Dessert",
+          "product": [
+            {
+              "name": "ニューヨークチーズケーキ",
+              "price": 100
+            },
+            {
+              "name": "チョコレートケーキ",
+              "price": 200
+            }
+          ]
+        },
+        {
+          "name": "Pastry",
+          "product": [
+            {
+              "name": "シュガードーナツ",
+              "price": 100
+            },
+            {
+              "name": "シナモンロール",
+              "price": 200
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
