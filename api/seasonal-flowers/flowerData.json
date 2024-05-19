@@ -2,7 +2,7 @@
   {
     "id": "001",
     "name": "サクラ",
-    "imageName": "dummy",
+    "imageName": "001",
     "description": "description",
     "season": "spring"
   },
@@ -15,20 +15,34 @@
   },
   {
     "id": "003",
-    "name": "バラ",
+    "name": "ウメ",
     "imageName": "dummy",
-    "description": "バラの説明",
+    "description": "description",
     "season": "spring"
   },
   {
-    "id": "003",
+    "id": "004",
+    "name": "バラ",
+    "imageName": "dummy",
+    "description": "description",
+    "season": "spring"
+  },
+  {
+    "id": "005",
+    "name": "チューリップ",
+    "imageName": "dummy",
+    "description": "description",
+    "season": "spring"
+  },
+  {
+    "id": "006",
     "name": "ヒマワリ",
     "imageName": "dummy",
     "description": "description",
     "season": "summer"
   },
   {
-    "id": "004",
+    "id": "007",
     "name": "アジサイ",
     "imageName": "dummy",
     "description": "description",
